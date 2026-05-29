@@ -1,0 +1,7 @@
+[
+{ "Rel_url" : deeptikkottapalli-droid/DataFiles/refs/heads/main/Sales.csv
+  "sink_folder" : "Sales"
+  "sink_file" : "sales.csv"
+
+}
+]
