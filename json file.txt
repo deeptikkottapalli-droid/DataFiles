@@ -3,5 +3,21 @@
   "sink_folder" : "Sales"
   "sink_file" : "sales.csv"
 
+},
+
+{ "Rel_url" : deeptikkottapalli-droid/DataFiles/refs/heads/main/FactResellerSales.csv
+  "sink_folder" : "Sales_Reseller"
+  "sink_file" : "sales_reseller.csv"
+
+},
+{ "Rel_url" : deeptikkottapalli-droid/DataFiles/refs/heads/main/FactInternetSales.csv
+  "sink_folder" : "Sales_internet"
+  "sink_file" : "sales_internet.csv"
+
+},
+{ "Rel_url" : deeptikkottapalli-droid/DataFiles/refs/heads/main/DimProductSubcategory.csv
+  "sink_folder" : "Product_cat"
+  "sink_file" : "Product_Cat.csv"
+
 }
 ]
