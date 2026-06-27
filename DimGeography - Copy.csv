@@ -1,0 +1,13 @@
+GeographyKey,City,StateProvinceName,StateProvinceCode,EnglishCountryRegionName,CountryRegionCode,SalesTerritoryKey
+1,Seattle,Washington,WA,United States,US,1
+2,Portland,Oregon,OR,United States,US,1
+3,San Diego,California,CA,United States,US,2
+4,Phoenix,Arizona,AZ,United States,US,2
+5,Dallas,Texas,TX,United States,US,3
+6,Chicago,Illinois,IL,United States,US,3
+7,Toronto,Ontario,ON,Canada,CA,4
+8,Vancouver,British Columbia,BC,Canada,CA,4
+9,London,England,ENG,United Kingdom,GB,5
+10,Manchester,England,ENG,United Kingdom,GB,5
+11,Sydney,New South Wales,NSW,Australia,AU,6
+12,Melbourne,Victoria,VIC,Australia,AU,6

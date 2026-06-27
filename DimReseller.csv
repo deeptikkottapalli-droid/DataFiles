@@ -1,0 +1,41 @@
+ResellerKey,ResellerAlternateKey,ResellerName,BusinessType,NumberEmployees,AnnualSales,GeographyKey,SalesTerritoryKey
+1,RES00001,Adventure Cycle #1,Catalog Store,149,750000,10,5
+2,RES00002,Bike World #2,Warehouse,89,2500000,8,4
+3,RES00003,Road Pro #3,Warehouse,11,1500000,2,1
+4,RES00004,Pacific Wheels #4,Value Added Reseller,18,1500000,8,4
+5,RES00005,Urban Cycle Shop #5,Catalog Store,42,2500000,8,4
+6,RES00006,Bike World #6,Specialty Bike Shop,53,250000,4,2
+7,RES00007,Adventure Cycle #7,Catalog Store,43,1000000,8,4
+8,RES00008,Northwind Bikes #8,Catalog Store,133,1500000,12,6
+9,RES00009,Bike World #9,Value Added Reseller,137,500000,8,4
+10,RES00010,Adventure Cycle #10,Catalog Store,139,1000000,9,5
+11,RES00011,Urban Cycle Shop #11,Catalog Store,141,750000,6,3
+12,RES00012,Adventure Cycle #12,Warehouse,128,500000,9,5
+13,RES00013,Pacific Wheels #13,Warehouse,62,750000,4,2
+14,RES00014,Northwind Bikes #14,Catalog Store,86,1000000,5,3
+15,RES00015,Pedal Hub #15,Warehouse,78,250000,6,3
+16,RES00016,Pedal Hub #16,Catalog Store,106,750000,10,5
+17,RES00017,Pacific Wheels #17,Specialty Bike Shop,78,2500000,3,2
+18,RES00018,Adventure Cycle #18,Catalog Store,70,2500000,2,1
+19,RES00019,Northwind Bikes #19,Value Added Reseller,142,750000,8,4
+20,RES00020,Pacific Wheels #20,Value Added Reseller,32,1500000,9,5
+21,RES00021,Cycle Center #21,Value Added Reseller,67,250000,12,6
+22,RES00022,Pedal Hub #22,Value Added Reseller,64,250000,11,6
+23,RES00023,Road Pro #23,Warehouse,125,250000,2,1
+24,RES00024,Urban Cycle Shop #24,Specialty Bike Shop,145,500000,11,6
+25,RES00025,Mountain Gear #25,Catalog Store,56,750000,7,4
+26,RES00026,Pacific Wheels #26,Specialty Bike Shop,27,2500000,6,3
+27,RES00027,Northwind Bikes #27,Specialty Bike Shop,49,1000000,10,5
+28,RES00028,Bike World #28,Catalog Store,131,500000,3,2
+29,RES00029,Pacific Wheels #29,Specialty Bike Shop,7,750000,12,6
+30,RES00030,Cycle Center #30,Specialty Bike Shop,90,750000,10,5
+31,RES00031,Pedal Hub #31,Catalog Store,39,1500000,8,4
+32,RES00032,Pacific Wheels #32,Value Added Reseller,33,750000,8,4
+33,RES00033,Mountain Gear #33,Warehouse,52,250000,3,2
+34,RES00034,Adventure Cycle #34,Warehouse,150,2500000,12,6
+35,RES00035,Urban Cycle Shop #35,Catalog Store,114,1500000,4,2
+36,RES00036,Trail Riders #36,Catalog Store,29,500000,6,3
+37,RES00037,Mountain Gear #37,Warehouse,68,250000,3,2
+38,RES00038,Road Pro #38,Value Added Reseller,119,750000,5,3
+39,RES00039,Pacific Wheels #39,Specialty Bike Shop,71,2500000,6,3
+40,RES00040,Northwind Bikes #40,Specialty Bike Shop,35,1000000,6,3

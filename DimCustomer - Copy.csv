@@ -1,0 +1,151 @@
+CustomerKey,CustomerAlternateKey,FirstName,LastName,FullName,BirthDate,MaritalStatus,Gender,EmailAddress,YearlyIncome,TotalChildren,Education,Occupation,GeographyKey,DateFirstPurchase
+1,AW0000001,Henry,Garcia,Henry Garcia,1976-09-28,S,F,henry.garcia1@example.com,90000,1,Bachelors,Clerical,8,2025-01-17
+2,AW0000002,Aria,Lee,Aria Lee,1967-04-08,M,M,aria.lee2@example.com,35000,4,Partial College,Sales,8,2024-08-13
+3,AW0000003,Mia,Johnson,Mia Johnson,1974-02-02,S,F,mia.johnson3@example.com,90000,1,Bachelors,Clerical,1,2024-08-07
+4,AW0000004,Sophia,Hall,Sophia Hall,1996-08-08,S,M,sophia.hall4@example.com,45000,0,High School,Clerical,9,2024-12-28
+5,AW0000005,James,Lee,James Lee,1963-11-21,M,F,james.lee5@example.com,75000,2,High School,Management,7,2024-07-15
+6,AW0000006,Henry,Lee,Henry Lee,1968-07-06,S,M,henry.lee6@example.com,45000,0,Graduate Degree,Sales,4,2024-04-10
+7,AW0000007,Henry,Smith,Henry Smith,1965-04-06,S,M,henry.smith7@example.com,75000,1,Graduate Degree,Professional,1,2024-06-17
+8,AW0000008,Ava,Moore,Ava Moore,1976-08-10,S,M,ava.moore8@example.com,45000,1,Bachelors,Management,7,2024-02-29
+9,AW0000009,Henry,Johnson,Henry Johnson,1980-01-02,S,F,henry.johnson9@example.com,35000,4,High School,Management,10,2024-03-11
+10,AW0000010,Mia,Davis,Mia Davis,1985-02-19,M,F,mia.davis10@example.com,90000,0,Graduate Degree,Sales,10,2025-08-01
+11,AW0000011,Harper,Kumar,Harper Kumar,1973-11-23,S,F,harper.kumar11@example.com,60000,3,Partial College,Skilled Manual,9,2025-04-13
+12,AW0000012,Mia,Smith,Mia Smith,1989-10-19,M,F,mia.smith12@example.com,90000,1,Bachelors,Management,6,2024-12-23
+13,AW0000013,Lucas,Thomas,Lucas Thomas,1978-03-15,S,F,lucas.thomas13@example.com,110000,4,Bachelors,Professional,2,2024-05-17
+14,AW0000014,Liam,Williams,Liam Williams,1995-03-09,S,F,liam.williams14@example.com,110000,2,Partial College,Skilled Manual,5,2025-06-01
+15,AW0000015,Amelia,Johnson,Amelia Johnson,1965-11-14,S,F,amelia.johnson15@example.com,35000,2,Partial College,Skilled Manual,8,2024-06-14
+16,AW0000016,Ella,Walker,Ella Walker,1987-09-01,M,F,ella.walker16@example.com,110000,1,High School,Skilled Manual,12,2025-08-19
+17,AW0000017,Sophia,Martin,Sophia Martin,1968-01-10,S,F,sophia.martin17@example.com,60000,1,Partial College,Professional,9,2024-12-28
+18,AW0000018,James,Young,James Young,1969-04-28,M,F,james.young18@example.com,75000,0,Partial College,Skilled Manual,9,2025-02-25
+19,AW0000019,Lucas,Kumar,Lucas Kumar,1970-12-04,S,F,lucas.kumar19@example.com,130000,3,Partial College,Management,11,2025-04-16
+20,AW0000020,Mason,Davis,Mason Davis,1974-01-22,M,M,mason.davis20@example.com,60000,2,High School,Skilled Manual,6,2024-12-25
+21,AW0000021,Aria,Moore,Aria Moore,2003-09-11,M,F,aria.moore21@example.com,60000,1,Bachelors,Professional,11,2024-04-21
+22,AW0000022,James,Thomas,James Thomas,1980-07-20,M,M,james.thomas22@example.com,90000,1,Bachelors,Professional,10,2025-03-22
+23,AW0000023,Aria,Walker,Aria Walker,2003-12-24,M,M,aria.walker23@example.com,75000,0,Bachelors,Sales,1,2024-11-17
+24,AW0000024,Liam,Wilson,Liam Wilson,1992-05-22,S,M,liam.wilson24@example.com,75000,2,Partial College,Management,11,2025-03-06
+25,AW0000025,Evelyn,Garcia,Evelyn Garcia,1999-10-10,S,F,evelyn.garcia25@example.com,60000,2,Partial College,Clerical,11,2025-08-16
+26,AW0000026,Harper,Lee,Harper Lee,1988-08-22,M,M,harper.lee26@example.com,130000,1,High School,Skilled Manual,10,2025-06-11
+27,AW0000027,Alexander,Anderson,Alexander Anderson,1965-04-22,S,F,alexander.anderson27@example.com,130000,1,Partial College,Professional,11,2024-02-17
+28,AW0000028,Benjamin,Young,Benjamin Young,1964-08-14,M,M,benjamin.young28@example.com,75000,3,Partial College,Management,4,2024-01-06
+29,AW0000029,James,Davis,James Davis,1971-12-17,S,F,james.davis29@example.com,90000,1,High School,Clerical,2,2024-05-16
+30,AW0000030,Aria,Walker,Aria Walker,1998-06-25,S,M,aria.walker30@example.com,130000,4,Graduate Degree,Management,8,2025-05-01
+31,AW0000031,Amelia,Davis,Amelia Davis,2000-05-25,S,F,amelia.davis31@example.com,60000,3,High School,Skilled Manual,8,2024-08-28
+32,AW0000032,Harper,Anderson,Harper Anderson,1994-02-05,M,F,harper.anderson32@example.com,75000,1,Partial College,Professional,5,2025-02-28
+33,AW0000033,Harper,Walker,Harper Walker,1989-07-02,M,M,harper.walker33@example.com,75000,4,High School,Sales,7,2025-01-24
+34,AW0000034,Ava,Thomas,Ava Thomas,1979-07-28,S,F,ava.thomas34@example.com,75000,1,Bachelors,Clerical,8,2025-05-12
+35,AW0000035,Evelyn,Anderson,Evelyn Anderson,2002-11-26,S,F,evelyn.anderson35@example.com,130000,3,Partial College,Sales,1,2025-06-30
+36,AW0000036,Evelyn,Hall,Evelyn Hall,1996-11-01,M,M,evelyn.hall36@example.com,45000,3,Partial College,Professional,1,2024-09-23
+37,AW0000037,Harper,Miller,Harper Miller,1989-06-11,S,M,harper.miller37@example.com,130000,3,Bachelors,Professional,7,2025-04-26
+38,AW0000038,Henry,Johnson,Henry Johnson,1982-04-21,M,F,henry.johnson38@example.com,130000,0,Partial College,Management,1,2024-01-21
+39,AW0000039,Sophia,Davis,Sophia Davis,1968-08-22,M,F,sophia.davis39@example.com,75000,2,Bachelors,Management,10,2025-09-12
+40,AW0000040,Liam,Garcia,Liam Garcia,1979-02-19,M,M,liam.garcia40@example.com,90000,3,Graduate Degree,Management,10,2024-03-18
+41,AW0000041,Lucas,Williams,Lucas Williams,2004-05-28,M,F,lucas.williams41@example.com,60000,4,Graduate Degree,Skilled Manual,10,2024-03-11
+42,AW0000042,Harper,Smith,Harper Smith,1986-08-04,S,M,harper.smith42@example.com,110000,3,Partial College,Clerical,9,2024-06-29
+43,AW0000043,Aria,Kumar,Aria Kumar,1999-09-25,S,M,aria.kumar43@example.com,75000,4,Bachelors,Skilled Manual,12,2024-09-08
+44,AW0000044,Amelia,Lee,Amelia Lee,1975-08-19,S,M,amelia.lee44@example.com,35000,3,Bachelors,Management,2,2025-05-14
+45,AW0000045,Logan,Kumar,Logan Kumar,1981-05-20,S,F,logan.kumar45@example.com,90000,1,High School,Management,4,2025-02-20
+46,AW0000046,Henry,Davis,Henry Davis,2004-08-21,S,M,henry.davis46@example.com,130000,0,High School,Skilled Manual,8,2024-08-14
+47,AW0000047,Lucas,Wilson,Lucas Wilson,2002-10-12,S,M,lucas.wilson47@example.com,75000,4,Bachelors,Skilled Manual,7,2025-04-09
+48,AW0000048,Mason,Kumar,Mason Kumar,1974-02-24,M,M,mason.kumar48@example.com,35000,4,Partial College,Management,5,2024-08-09
+49,AW0000049,Benjamin,Kumar,Benjamin Kumar,1997-09-20,S,F,benjamin.kumar49@example.com,130000,1,Bachelors,Management,12,2025-01-04
+50,AW0000050,Mason,Smith,Mason Smith,1994-03-09,M,F,mason.smith50@example.com,90000,2,Partial College,Clerical,3,2024-04-15
+51,AW0000051,Camila,Wilson,Camila Wilson,1990-08-15,S,F,camila.wilson51@example.com,35000,2,Graduate Degree,Professional,1,2024-03-07
+52,AW0000052,Benjamin,Patel,Benjamin Patel,1996-11-22,M,F,benjamin.patel52@example.com,45000,4,Bachelors,Professional,7,2024-09-11
+53,AW0000053,Henry,Martin,Henry Martin,1998-10-26,M,M,henry.martin53@example.com,75000,3,Bachelors,Sales,2,2025-03-15
+54,AW0000054,Camila,Young,Camila Young,1963-10-24,M,F,camila.young54@example.com,110000,1,Bachelors,Professional,5,2024-06-09
+55,AW0000055,Ethan,Walker,Ethan Walker,1964-03-01,S,M,ethan.walker55@example.com,110000,4,Graduate Degree,Skilled Manual,4,2024-02-03
+56,AW0000056,Mason,Wilson,Mason Wilson,2004-08-03,M,M,mason.wilson56@example.com,130000,4,Partial College,Clerical,4,2024-04-27
+57,AW0000057,Lucas,Brown,Lucas Brown,1977-03-03,M,F,lucas.brown57@example.com,130000,2,Bachelors,Clerical,9,2024-05-07
+58,AW0000058,Mason,Moore,Mason Moore,1977-09-18,S,M,mason.moore58@example.com,35000,4,High School,Clerical,8,2024-11-26
+59,AW0000059,Amelia,Smith,Amelia Smith,1965-04-22,M,M,amelia.smith59@example.com,90000,0,Partial College,Clerical,10,2025-06-15
+60,AW0000060,Ella,Kumar,Ella Kumar,1971-10-14,S,F,ella.kumar60@example.com,75000,2,Graduate Degree,Skilled Manual,11,2024-11-24
+61,AW0000061,Liam,Garcia,Liam Garcia,1981-07-23,S,M,liam.garcia61@example.com,110000,3,High School,Clerical,11,2024-03-31
+62,AW0000062,Amelia,Anderson,Amelia Anderson,1967-07-28,M,M,amelia.anderson62@example.com,75000,0,Partial College,Sales,6,2025-01-05
+63,AW0000063,Benjamin,Lee,Benjamin Lee,1963-04-09,M,M,benjamin.lee63@example.com,75000,3,High School,Professional,10,2025-10-07
+64,AW0000064,Lucas,Garcia,Lucas Garcia,1979-09-01,S,F,lucas.garcia64@example.com,45000,0,Graduate Degree,Professional,10,2024-06-06
+65,AW0000065,Mason,Lewis,Mason Lewis,1977-07-27,S,M,mason.lewis65@example.com,45000,3,Partial College,Clerical,8,2024-07-14
+66,AW0000066,Aria,Brown,Aria Brown,1964-05-25,S,M,aria.brown66@example.com,130000,4,Bachelors,Professional,10,2024-10-16
+67,AW0000067,Mason,Hall,Mason Hall,1997-11-16,M,M,mason.hall67@example.com,90000,3,Bachelors,Skilled Manual,12,2025-07-19
+68,AW0000068,Evelyn,Lee,Evelyn Lee,1980-04-23,M,M,evelyn.lee68@example.com,45000,3,High School,Skilled Manual,9,2025-04-29
+69,AW0000069,Evelyn,Moore,Evelyn Moore,2002-11-05,S,F,evelyn.moore69@example.com,45000,4,Bachelors,Professional,12,2025-03-26
+70,AW0000070,Aria,Lee,Aria Lee,1960-12-05,S,F,aria.lee70@example.com,35000,3,Bachelors,Skilled Manual,2,2025-09-30
+71,AW0000071,Evelyn,Patel,Evelyn Patel,1981-11-28,S,M,evelyn.patel71@example.com,110000,3,High School,Sales,12,2024-03-11
+72,AW0000072,Mason,Davis,Mason Davis,1965-07-04,M,M,mason.davis72@example.com,45000,2,High School,Professional,4,2024-11-28
+73,AW0000073,Mason,Thomas,Mason Thomas,1983-07-05,M,M,mason.thomas73@example.com,90000,1,Partial College,Management,1,2024-03-21
+74,AW0000074,Evelyn,Young,Evelyn Young,2003-04-16,M,F,evelyn.young74@example.com,75000,2,Graduate Degree,Skilled Manual,10,2024-01-10
+75,AW0000075,Mason,Walker,Mason Walker,1970-02-15,S,M,mason.walker75@example.com,110000,3,Bachelors,Clerical,8,2024-11-05
+76,AW0000076,Evelyn,Clark,Evelyn Clark,1966-04-13,S,M,evelyn.clark76@example.com,110000,2,High School,Clerical,4,2024-10-08
+77,AW0000077,Camila,Johnson,Camila Johnson,1998-12-16,S,F,camila.johnson77@example.com,90000,2,Partial College,Management,1,2025-09-27
+78,AW0000078,Sophia,Williams,Sophia Williams,2000-11-02,S,M,sophia.williams78@example.com,35000,4,Bachelors,Management,5,2024-04-02
+79,AW0000079,Harper,Martin,Harper Martin,1971-04-05,S,M,harper.martin79@example.com,130000,1,Bachelors,Clerical,5,2024-10-29
+80,AW0000080,Harper,Williams,Harper Williams,1989-02-05,M,M,harper.williams80@example.com,130000,4,Bachelors,Professional,12,2025-02-08
+81,AW0000081,Amelia,Walker,Amelia Walker,1967-08-12,S,M,amelia.walker81@example.com,130000,2,High School,Management,1,2025-04-27
+82,AW0000082,Alexander,Walker,Alexander Walker,1980-10-08,M,M,alexander.walker82@example.com,110000,2,Graduate Degree,Professional,1,2024-05-23
+83,AW0000083,Noah,Wilson,Noah Wilson,1991-02-04,M,F,noah.wilson83@example.com,75000,3,Bachelors,Sales,1,2025-03-05
+84,AW0000084,Sophia,Martin,Sophia Martin,2001-02-27,S,M,sophia.martin84@example.com,60000,0,Bachelors,Management,10,2025-03-30
+85,AW0000085,Lucas,Thomas,Lucas Thomas,1966-11-12,S,F,lucas.thomas85@example.com,75000,2,Partial College,Professional,8,2025-04-10
+86,AW0000086,Isabella,Young,Isabella Young,1961-01-26,S,F,isabella.young86@example.com,45000,4,Partial College,Professional,2,2025-07-21
+87,AW0000087,Camila,Miller,Camila Miller,1974-06-25,M,F,camila.miller87@example.com,60000,1,Partial College,Sales,4,2024-09-13
+88,AW0000088,Liam,Smith,Liam Smith,1968-01-12,M,M,liam.smith88@example.com,35000,1,Bachelors,Professional,3,2024-05-09
+89,AW0000089,James,Lewis,James Lewis,1967-12-03,S,M,james.lewis89@example.com,130000,2,High School,Clerical,12,2025-05-30
+90,AW0000090,Alexander,Johnson,Alexander Johnson,2002-09-10,S,F,alexander.johnson90@example.com,35000,3,Graduate Degree,Clerical,4,2024-04-20
+91,AW0000091,Ella,Patel,Ella Patel,1965-06-20,M,F,ella.patel91@example.com,45000,2,Bachelors,Clerical,8,2025-09-03
+92,AW0000092,Mason,Lee,Mason Lee,1992-10-14,M,F,mason.lee92@example.com,130000,4,Partial College,Clerical,9,2025-04-07
+93,AW0000093,James,Anderson,James Anderson,1989-07-14,M,M,james.anderson93@example.com,75000,2,Bachelors,Skilled Manual,4,2024-06-05
+94,AW0000094,Benjamin,Patel,Benjamin Patel,1965-02-03,S,F,benjamin.patel94@example.com,110000,2,Partial College,Sales,11,2024-03-02
+95,AW0000095,Henry,Walker,Henry Walker,1981-11-04,S,M,henry.walker95@example.com,130000,3,High School,Skilled Manual,10,2025-09-06
+96,AW0000096,Logan,Williams,Logan Williams,1996-09-07,M,M,logan.williams96@example.com,45000,0,Bachelors,Sales,5,2025-01-11
+97,AW0000097,Amelia,Hall,Amelia Hall,1974-07-28,M,M,amelia.hall97@example.com,35000,1,Bachelors,Skilled Manual,2,2024-12-13
+98,AW0000098,Ava,Garcia,Ava Garcia,1969-10-22,S,F,ava.garcia98@example.com,45000,0,High School,Sales,6,2024-08-08
+99,AW0000099,James,Lee,James Lee,1981-03-12,S,M,james.lee99@example.com,130000,4,High School,Professional,7,2024-06-08
+100,AW0000100,Alexander,Johnson,Alexander Johnson,2003-02-09,S,M,alexander.johnson100@example.com,75000,4,Graduate Degree,Clerical,3,2024-10-06
+101,AW0000101,Aria,Williams,Aria Williams,1982-07-04,S,M,aria.williams101@example.com,90000,2,High School,Management,4,2025-02-08
+102,AW0000102,Noah,Smith,Noah Smith,1973-05-07,M,M,noah.smith102@example.com,60000,2,High School,Professional,10,2025-05-24
+103,AW0000103,James,Garcia,James Garcia,1968-07-18,M,M,james.garcia103@example.com,35000,3,High School,Clerical,12,2024-01-20
+104,AW0000104,Mia,Anderson,Mia Anderson,1996-07-19,S,M,mia.anderson104@example.com,60000,0,Graduate Degree,Professional,8,2024-11-28
+105,AW0000105,Alexander,Lee,Alexander Lee,2004-06-03,S,F,alexander.lee105@example.com,45000,3,Graduate Degree,Sales,3,2024-03-21
+106,AW0000106,Mason,Anderson,Mason Anderson,1974-06-25,M,F,mason.anderson106@example.com,90000,0,Partial College,Skilled Manual,7,2024-12-25
+107,AW0000107,Sophia,Davis,Sophia Davis,1966-03-09,M,F,sophia.davis107@example.com,90000,1,High School,Management,12,2025-10-05
+108,AW0000108,Ella,Hall,Ella Hall,1997-08-22,S,M,ella.hall108@example.com,45000,3,High School,Clerical,8,2025-03-28
+109,AW0000109,Mason,Kumar,Mason Kumar,1997-01-12,M,M,mason.kumar109@example.com,75000,3,High School,Professional,11,2025-01-12
+110,AW0000110,Mia,Patel,Mia Patel,1999-10-17,S,M,mia.patel110@example.com,90000,4,High School,Clerical,5,2025-08-08
+111,AW0000111,Isabella,Anderson,Isabella Anderson,1998-08-17,M,F,isabella.anderson111@example.com,75000,0,Bachelors,Professional,11,2025-05-31
+112,AW0000112,Ethan,Johnson,Ethan Johnson,1975-12-15,S,F,ethan.johnson112@example.com,60000,2,Bachelors,Clerical,11,2025-02-22
+113,AW0000113,Alexander,Johnson,Alexander Johnson,2000-11-11,M,M,alexander.johnson113@example.com,35000,4,Graduate Degree,Skilled Manual,6,2024-09-15
+114,AW0000114,Alexander,Brown,Alexander Brown,1981-02-19,M,M,alexander.brown114@example.com,60000,3,Partial College,Sales,12,2024-03-27
+115,AW0000115,Henry,Moore,Henry Moore,2001-06-27,M,F,henry.moore115@example.com,110000,3,Bachelors,Professional,5,2025-01-06
+116,AW0000116,Ethan,Miller,Ethan Miller,1981-08-07,M,F,ethan.miller116@example.com,45000,0,Bachelors,Professional,5,2025-06-03
+117,AW0000117,Aria,Johnson,Aria Johnson,2002-06-25,M,M,aria.johnson117@example.com,45000,1,Partial College,Sales,9,2024-06-18
+118,AW0000118,Ella,Johnson,Ella Johnson,1986-06-22,M,M,ella.johnson118@example.com,90000,2,Graduate Degree,Management,12,2025-06-30
+119,AW0000119,Mason,Clark,Mason Clark,1972-06-22,S,M,mason.clark119@example.com,130000,2,Graduate Degree,Sales,4,2025-06-24
+120,AW0000120,Ethan,Miller,Ethan Miller,1998-03-28,S,F,ethan.miller120@example.com,110000,3,Bachelors,Sales,7,2024-04-15
+121,AW0000121,Aria,Williams,Aria Williams,1978-02-25,M,M,aria.williams121@example.com,75000,4,Partial College,Clerical,12,2024-04-03
+122,AW0000122,Ella,Thomas,Ella Thomas,1961-07-02,S,M,ella.thomas122@example.com,45000,3,High School,Skilled Manual,4,2024-08-17
+123,AW0000123,Harper,Williams,Harper Williams,2001-06-26,M,F,harper.williams123@example.com,35000,2,Graduate Degree,Management,1,2025-04-25
+124,AW0000124,Alexander,Smith,Alexander Smith,1965-01-09,M,F,alexander.smith124@example.com,90000,4,Graduate Degree,Professional,8,2024-10-22
+125,AW0000125,Mason,Williams,Mason Williams,1963-04-14,S,F,mason.williams125@example.com,35000,3,High School,Sales,4,2025-08-11
+126,AW0000126,Sophia,Wilson,Sophia Wilson,1987-01-20,S,F,sophia.wilson126@example.com,90000,3,Partial College,Professional,4,2025-06-20
+127,AW0000127,Mia,Lewis,Mia Lewis,1994-09-26,M,M,mia.lewis127@example.com,130000,3,High School,Clerical,6,2025-01-17
+128,AW0000128,Ava,Thomas,Ava Thomas,1964-06-08,M,M,ava.thomas128@example.com,45000,0,Bachelors,Sales,5,2024-12-12
+129,AW0000129,Ethan,Lee,Ethan Lee,2004-08-21,M,F,ethan.lee129@example.com,35000,3,High School,Skilled Manual,11,2024-07-25
+130,AW0000130,Isabella,Johnson,Isabella Johnson,1980-05-17,S,M,isabella.johnson130@example.com,60000,0,Partial College,Skilled Manual,1,2024-12-31
+131,AW0000131,Harper,Kumar,Harper Kumar,1967-06-14,S,M,harper.kumar131@example.com,75000,2,Partial College,Clerical,1,2025-05-24
+132,AW0000132,Aria,Kumar,Aria Kumar,1965-12-14,M,M,aria.kumar132@example.com,90000,1,Bachelors,Skilled Manual,6,2024-04-15
+133,AW0000133,Harper,Wilson,Harper Wilson,1979-08-20,S,F,harper.wilson133@example.com,110000,3,Bachelors,Clerical,2,2024-02-13
+134,AW0000134,Logan,Young,Logan Young,1987-05-21,M,F,logan.young134@example.com,110000,3,Bachelors,Sales,12,2024-06-12
+135,AW0000135,Sophia,Young,Sophia Young,2003-08-02,M,F,sophia.young135@example.com,45000,2,Bachelors,Clerical,1,2025-08-03
+136,AW0000136,Alexander,Brown,Alexander Brown,2003-08-12,S,M,alexander.brown136@example.com,130000,0,Partial College,Sales,1,2025-01-10
+137,AW0000137,Harper,Kumar,Harper Kumar,1975-02-01,M,M,harper.kumar137@example.com,90000,3,High School,Skilled Manual,7,2024-09-23
+138,AW0000138,Ella,Miller,Ella Miller,1999-05-23,S,F,ella.miller138@example.com,35000,1,High School,Clerical,12,2024-06-25
+139,AW0000139,Ella,Patel,Ella Patel,2003-06-22,S,F,ella.patel139@example.com,90000,4,Bachelors,Skilled Manual,12,2024-06-10
+140,AW0000140,Ethan,Thomas,Ethan Thomas,1992-04-04,M,F,ethan.thomas140@example.com,45000,3,High School,Skilled Manual,12,2025-07-21
+141,AW0000141,Logan,Lee,Logan Lee,1995-03-20,M,F,logan.lee141@example.com,60000,3,Graduate Degree,Sales,10,2025-02-24
+142,AW0000142,Camila,Patel,Camila Patel,1968-06-21,M,M,camila.patel142@example.com,75000,4,Bachelors,Management,7,2025-07-18
+143,AW0000143,Camila,Garcia,Camila Garcia,1968-07-17,M,F,camila.garcia143@example.com,90000,1,Bachelors,Management,11,2024-06-14
+144,AW0000144,Lucas,Thomas,Lucas Thomas,1993-05-28,M,M,lucas.thomas144@example.com,45000,4,Bachelors,Management,6,2025-10-02
+145,AW0000145,Alexander,Walker,Alexander Walker,1965-09-21,M,F,alexander.walker145@example.com,45000,4,Bachelors,Sales,5,2024-02-12
+146,AW0000146,Mia,Johnson,Mia Johnson,2001-10-09,M,M,mia.johnson146@example.com,90000,0,Graduate Degree,Sales,1,2024-10-23
+147,AW0000147,Mason,Clark,Mason Clark,1975-11-13,S,M,mason.clark147@example.com,35000,0,Partial College,Clerical,11,2025-03-01
+148,AW0000148,Ella,Miller,Ella Miller,1981-10-05,S,M,ella.miller148@example.com,110000,2,Graduate Degree,Management,8,2025-01-14
+149,AW0000149,Henry,Williams,Henry Williams,1980-04-15,M,M,henry.williams149@example.com,75000,1,Partial College,Professional,9,2024-02-21
+150,AW0000150,Evelyn,Young,Evelyn Young,1986-04-28,M,M,evelyn.young150@example.com,90000,2,Partial College,Management,5,2025-05-25

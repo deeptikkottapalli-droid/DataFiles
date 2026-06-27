@@ -1,0 +1,71 @@
+ProductKey,ProductAlternateKey,ProductSubcategoryKey,EnglishProductName,Color,Size,StandardCost,ListPrice,ModelName,DealerPrice,Class,Style
+1,AW-0001,1,Mountain-100 Silver 38,Silver,38,1293.6,2249.08,Mountain-100,1619.34,H,U
+2,AW-0002,1,Mountain-100 Silver 42,Silver,42,1338.0,2120.81,Mountain-100,1526.98,H,U
+3,AW-0003,1,Mountain-100 Silver 46,Silver,46,1439.58,2283.24,Mountain-100,1643.93,H,U
+4,AW-0004,1,Mountain-100 Black 38,Black,38,1307.47,2338.05,Mountain-100,1683.4,H,U
+5,AW-0005,1,Mountain-100 Black 42,Black,42,1294.67,2172.52,Mountain-100,1564.21,H,U
+6,AW-0006,1,Mountain-100 Black 46,Black,46,1401.2,2100.96,Mountain-100,1512.69,H,U
+7,AW-0007,1,Mountain-200 Black 38,Black,38,904.22,1525.01,Mountain-200,1098.01,H,U
+8,AW-0008,1,Mountain-200 Black 42,Black,42,956.83,1689.57,Mountain-200,1216.49,H,U
+9,AW-0009,1,Mountain-200 Black 46,Black,46,963.57,1576.2,Mountain-200,1134.86,H,U
+10,AW-0010,1,Mountain-200 Red 38,Red,38,874.99,1731.69,Mountain-200,1246.82,H,U
+11,AW-0011,1,Mountain-200 Red 42,Red,42,980.12,1730.74,Mountain-200,1246.13,H,U
+12,AW-0012,1,Mountain-200 Red 46,Red,46,897.63,1607.83,Mountain-200,1157.64,H,U
+13,AW-0013,1,Mountain-500 Black 40,Black,40,301.9,579.5,Mountain-500,417.24,M,U
+14,AW-0014,1,Mountain-500 Black 44,Black,44,290.0,504.81,Mountain-500,363.46,M,U
+15,AW-0015,1,Mountain-500 Black 48,Black,48,315.14,570.02,Mountain-500,410.41,M,U
+16,AW-0016,1,Mountain-500 Silver 40,Silver,40,321.39,566.54,Mountain-500,407.91,M,U
+17,AW-0017,1,Mountain-500 Silver 44,Silver,44,333.47,543.13,Mountain-500,391.05,M,U
+18,AW-0018,1,Mountain-500 Silver 48,Silver,48,312.58,529.51,Mountain-500,381.25,M,U
+19,AW-0019,2,Road-150 Red 44,Red,44,2212.17,3766.58,Road-150,2711.94,H,U
+20,AW-0020,2,Road-150 Red 48,Red,48,2197.87,3785.07,Road-150,2725.25,H,U
+21,AW-0021,2,Road-150 Red 52,Red,52,2013.24,3695.11,Road-150,2660.48,H,U
+22,AW-0022,2,Road-150 Red 56,Red,56,2097.84,3422.23,Road-150,2464.01,H,U
+23,AW-0023,2,Road-250 Black 44,Black,44,1453.1,2278.75,Road-250,1640.7,H,U
+24,AW-0024,2,Road-250 Black 48,Black,48,1464.07,2287.04,Road-250,1646.67,H,U
+25,AW-0025,2,Road-250 Black 52,Black,52,1485.17,2496.04,Road-250,1797.15,H,U
+26,AW-0026,2,Road-250 Red 44,Red,44,1447.45,2392.26,Road-250,1722.43,H,U
+27,AW-0027,2,Road-250 Red 48,Red,48,1624.05,2351.92,Road-250,1693.38,H,U
+28,AW-0028,2,Road-250 Red 52,Red,52,1544.51,2500.86,Road-250,1800.62,H,U
+29,AW-0029,2,Road-650 Black 48,Black,48,503.82,740.85,Road-650,533.41,M,U
+30,AW-0030,2,Road-650 Black 52,Black,52,476.63,739.88,Road-650,532.71,M,U
+31,AW-0031,2,Road-650 Black 56,Black,56,496.89,843.25,Road-650,607.14,M,U
+32,AW-0032,2,Road-650 Red 48,Red,48,500.36,789.13,Road-650,568.17,M,U
+33,AW-0033,2,Road-650 Red 52,Red,52,507.46,824.9,Road-650,593.93,M,U
+34,AW-0034,2,Road-650 Red 56,Red,56,449.62,748.1,Road-650,538.63,M,U
+35,AW-0035,2,Road-650 Silver 48,Silver,48,467.94,758.91,Road-650,546.42,M,U
+36,AW-0036,2,Road-650 Silver 52,Silver,52,520.44,745.84,Road-650,537.0,M,U
+37,AW-0037,2,Road-650 Silver 56,Silver,56,471.59,829.09,Road-650,596.94,M,U
+38,AW-0038,3,Touring-1000 Blue 46,Blue,46,1457.25,2443.29,Touring-1000,1759.17,H,U
+39,AW-0039,3,Touring-1000 Blue 50,Blue,50,1472.24,2542.13,Touring-1000,1830.33,H,U
+40,AW-0040,3,Touring-1000 Blue 54,Blue,54,1421.92,2294.32,Touring-1000,1651.91,H,U
+41,AW-0041,3,Touring-1000 Yellow 46,Yellow,46,1425.74,2407.41,Touring-1000,1733.34,H,U
+42,AW-0042,3,Touring-1000 Yellow 50,Yellow,50,1576.33,2416.26,Touring-1000,1739.71,H,U
+43,AW-0043,3,Touring-1000 Yellow 54,Yellow,54,1415.45,2345.63,Touring-1000,1688.85,H,U
+44,AW-0044,3,Touring-3000 Blue 44,Blue,44,461.7,801.07,Touring-3000,576.77,M,U
+45,AW-0045,3,Touring-3000 Blue 50,Blue,50,427.6,693.43,Touring-3000,499.27,M,U
+46,AW-0046,3,Touring-3000 Blue 56,Blue,56,470.4,695.66,Touring-3000,500.88,M,U
+47,AW-0047,3,Touring-3000 Yellow 44,Yellow,44,455.26,776.68,Touring-3000,559.21,M,U
+48,AW-0048,3,Touring-3000 Yellow 50,Yellow,50,452.27,690.18,Touring-3000,496.93,M,U
+49,AW-0049,3,Touring-3000 Yellow 56,Yellow,56,463.15,800.9,Touring-3000,576.65,M,U
+50,AW-0050,4,HL Mountain Tire Black NA,Black,NA,13.75,37.64,HL Mountain Tire,27.1,L,U
+51,AW-0051,4,Road Tire Tube Black NA,Black,NA,2.07,7.37,Road Tire Tube,5.31,L,U
+52,AW-0052,5,Chain Silver NA,Silver,NA,8.05,21.61,Chain,15.56,L,U
+53,AW-0053,6,Long-Sleeve Logo Jersey Blue S,Blue,S,22.5,47.17,Long-Sleeve Logo Jersey,33.96,L,U
+54,AW-0054,6,Long-Sleeve Logo Jersey Blue M,Blue,M,21.77,45.95,Long-Sleeve Logo Jersey,33.08,L,U
+55,AW-0055,6,Long-Sleeve Logo Jersey Blue L,Blue,L,23.6,48.64,Long-Sleeve Logo Jersey,35.02,L,U
+56,AW-0056,6,Long-Sleeve Logo Jersey Blue XL,Blue,XL,21.17,51.95,Long-Sleeve Logo Jersey,37.4,L,U
+57,AW-0057,6,Long-Sleeve Logo Jersey Black S,Black,S,20.87,49.0,Long-Sleeve Logo Jersey,35.28,L,U
+58,AW-0058,6,Long-Sleeve Logo Jersey Black M,Black,M,23.3,52.24,Long-Sleeve Logo Jersey,37.61,L,U
+59,AW-0059,6,Long-Sleeve Logo Jersey Black L,Black,L,22.49,47.42,Long-Sleeve Logo Jersey,34.14,L,U
+60,AW-0060,6,Long-Sleeve Logo Jersey Black XL,Black,XL,20.78,49.85,Long-Sleeve Logo Jersey,35.89,L,U
+61,AW-0061,6,Long-Sleeve Logo Jersey Red S,Red,S,22.14,51.06,Long-Sleeve Logo Jersey,36.76,L,U
+62,AW-0062,6,Long-Sleeve Logo Jersey Red M,Red,M,22.11,51.18,Long-Sleeve Logo Jersey,36.85,L,U
+63,AW-0063,6,Long-Sleeve Logo Jersey Red L,Red,L,21.38,45.08,Long-Sleeve Logo Jersey,32.46,L,U
+64,AW-0064,6,Long-Sleeve Logo Jersey Red XL,Red,XL,23.51,45.23,Long-Sleeve Logo Jersey,32.57,L,U
+65,AW-0065,7,Racing Shorts Black S,Black,S,28.43,68.94,Racing Shorts,49.64,L,U
+66,AW-0066,7,Racing Shorts Black M,Black,M,25.09,63.0,Racing Shorts,45.36,L,U
+67,AW-0067,7,Racing Shorts Black L,Black,L,28.93,68.93,Racing Shorts,49.63,L,U
+68,AW-0068,8,Sport-100 Helmet Red NA,Red,NA,13.97,32.68,Sport-100 Helmet,23.53,L,U
+69,AW-0069,8,Sport-100 Helmet Black NA,Black,NA,14.58,32.59,Sport-100 Helmet,23.46,L,U
+70,AW-0070,8,Sport-100 Helmet Blue NA,Blue,NA,13.17,36.49,Sport-100 Helmet,26.27,L,U

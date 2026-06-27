@@ -1,0 +1,11 @@
+ProductSubcategoryKey,ProductCategoryKey,EnglishProductSubcategoryName
+1,1,Mountain Bikes
+2,1,Road Bikes
+3,1,Touring Bikes
+4,2,Tires and Tubes
+5,2,Chains
+6,3,Jerseys
+7,3,Shorts
+8,4,Helmets
+9,4,Bottles and Cages
+10,4,Locks
